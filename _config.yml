@@ -1,0 +1,28 @@
+name: Pâtes à Tort
+favicon: null
+layout_spectrum: 0.21415723697282374
+typography_spectrum: 0.33766962215304375
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.15274387248791754
+  lightness: 0.12091382825747132
+  saturation: 0.44280484900809824
+  rhythmicContrast: 0.2230885555036366
+purpose: []
