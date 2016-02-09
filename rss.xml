@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Pâtes à Tort]]></title>
         <description><![CDATA[Pâtes à Tort]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pates-a-tort/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 23:47:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 23:48:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pates-a-tort/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Voici mon premier post sur TheGrid.io pour tester un peu tout ça.</p>]]></description>
+            <link>https://thegrid.ai/pates-a-tort/e030e4a5-50e7-4d33-bb90-ff22d8a98eab/index.html</link>
+            <guid isPermaLink="false">e030e4a5-50e7-4d33-bb90-ff22d8a98eab</guid>
+            <pubDate>Tue, 09 Feb 2016 23:47:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>mlkjmlkj</p>]]></description>
-            <link>undefinedd3bb8d7b-90a5-4043-93a8-9ab208437712/index.html</link>
+            <link>https://thegrid.ai/pates-a-tort/d3bb8d7b-90a5-4043-93a8-9ab208437712/index.html</link>
             <guid isPermaLink="false">d3bb8d7b-90a5-4043-93a8-9ab208437712</guid>
             <pubDate>Tue, 09 Feb 2016 23:47:09 GMT</pubDate>
         </item>
