@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Pâtes à Tort]]></title>
-        <description><![CDATA[Pâtes à Tort]]></description>
+        <title><![CDATA[Recettes de tous les jours, végétalisées, déglutenisées, crudivorisées.]]></title>
+        <description><![CDATA[Recettes de tous les jours, végétalisées, déglutenisées, crudivorisées.]]></description>
         <link>https://thegrid.ai/pates-a-tort/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 23:48:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 23:49:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pates-a-tort/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s-media-cache-ak0.pinimg.com/564x/b2/ed/01/b2ed01ab93b2dbcd2db3a172160d734e.jpg">]]></description>
+            <link>https://thegrid.ai/pates-a-tort/c3c0816c-3e7c-49d4-b4eb-ada6263a1985/index.html</link>
+            <guid isPermaLink="false">c3c0816c-3e7c-49d4-b4eb-ada6263a1985</guid>
+            <pubDate>Thu, 25 Feb 2016 23:48:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Voici mon premier post sur TheGrid.io pour tester un peu tout ça.</p>]]></description>
